@@ -65,6 +65,3 @@ Access the website at: http://localhost:3000
 
 Contributions are welcome! If you find a bug or have an enhancement in mind, feel free to submit a pull request. Please make sure to follow the code of conduct and provide detailed information about your changes.
 
-# License
-
-This project is licensed under the MIT License.
